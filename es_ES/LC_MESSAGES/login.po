@@ -32,7 +32,7 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "Bienvenido de vuelta!, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
+msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes, ¡Todo tu contenido sigue aqui!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
@@ -245,4 +245,4 @@ msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Cuando estés listo, preséntate en nuestro canal de introducción, bajo la categoría personal."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "¡Lo sentimos! Hemos marcado esta dirección de email  as incorrecta, asi que ya no recibirás mas emails de Sudomemo."
+msgstr "¡Lo sentimos! Hemos marcado esta dirección de email como incorrecta, asi que ya no recibirás mas emails de Sudomemo."
